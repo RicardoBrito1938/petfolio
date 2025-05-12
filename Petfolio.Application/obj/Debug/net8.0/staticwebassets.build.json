@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "cmY1U5hMVj7wPso3Eee6+0mKQLQl4PLgEFGp9spp8/A=",
+  "Source": "Petfolio.Application",
+  "BasePath": "_content/Petfolio.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/ricardobrito/Documents/study/Petfolio/Petfolio.Communication/Petfolio.Communication.csproj",
+      "Version": 2,
+      "Source": "Petfolio.Communication",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
