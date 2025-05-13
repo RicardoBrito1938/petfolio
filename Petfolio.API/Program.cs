@@ -18,7 +18,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(options =>
     {
         options.SwaggerEndpoint("/swagger/v1/swagger.json", "Petfolio API v1");
-        options.RoutePrefix = string.Empty; // Serve the Swagger UI at the app's root
+        options.RoutePrefix ="swagger"; // Serve the Swagger UI at the app's root
     });
 }
 
