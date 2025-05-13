@@ -30,3 +30,4 @@
 /Users/ricardobrito/Documents/study/Petfolio/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.pdb
 /Users/ricardobrito/Documents/study/Petfolio/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.genruntimeconfig.cache
 /Users/ricardobrito/Documents/study/Petfolio/Petfolio.Application/obj/Debug/net8.0/ref/Petfolio.Application.dll
+/Users/ricardobrito/Documents/study/Petfolio/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.sourcelink.json

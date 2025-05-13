@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Petfolio.Application.UseCases.Pet.Register;
 using Petfolio.Communication.Requests;
+using Petfolio.Communication.Responses;
 
 namespace Petfolio.API.Controllers
 {
@@ -9,11 +11,13 @@ namespace Petfolio.API.Controllers
     public class PetController : ControllerBase
     {
         [HttpPost]
-        [ProducesResponseType(typeof(RequestRegisterPetsJson), StatusCodes.Status201Created)]
+        [ProducesResponseType(typeof(ResponseRegisterPetJson), StatusCodes.Status201Created)]
         public IActionResult Register([FromBody] RequestRegisterPetsJson request)
         {
-            // Logic to create a pet
-            return Created();
+            var registerPetUseCase = new RegisterPetUseCase();
+            var response = registerPetUseCase.Execute(request);
+            
+            return Created(string.Empty, response);
         }
     }
 }

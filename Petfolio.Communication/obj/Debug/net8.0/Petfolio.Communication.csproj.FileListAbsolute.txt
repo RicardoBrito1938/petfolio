@@ -23,3 +23,4 @@
 /Users/ricardobrito/Documents/study/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.pdb
 /Users/ricardobrito/Documents/study/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.genruntimeconfig.cache
 /Users/ricardobrito/Documents/study/Petfolio/Petfolio.Communication/obj/Debug/net8.0/ref/Petfolio.Communication.dll
+/Users/ricardobrito/Documents/study/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.sourcelink.json

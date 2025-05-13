@@ -40,3 +40,4 @@
 /Users/ricardobrito/Documents/study/Petfolio/Petfolio.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/ricardobrito/Documents/study/Petfolio/Petfolio.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/ricardobrito/Documents/study/Petfolio/Petfolio.API/obj/Debug/net8.0/Petfolio.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/ricardobrito/Documents/study/Petfolio/Petfolio.API/obj/Debug/net8.0/Petfolio.API.sourcelink.json
